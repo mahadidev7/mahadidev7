@@ -4,8 +4,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/mahadidev7)  
 
-# Hi there 👋, <br />My name is MD. MAHADI HASAN
-## I am a professional frontend developer
+<h1 align="center">Hi 👋, I'm MD. Mahadi hasan</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 High-level experience in web design and frontend development knowledge, producing quality work.
 
@@ -15,38 +15,6 @@ Skills: REACT, JAVASCRIPT, BOOTSTRAT, TAILWIND CSS, FIREBASE, FIGMA, HTML, CSS
 - 👯 I’m looking to collaborate on any team & company 
 - 💬 Ask me about react, javascript 
 - 📫 How to reach me: mahadidev7@gmail.com 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadidev7&show_icons=true) 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadidev7)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/mahadidev7)  -->
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahadidev7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mahadidev7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahadidev7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahadidev77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahadidev7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mahadidev7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mahadidev7-portfolio.web.app/)  
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm MD. Mahadi hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadidev7&label=Profile%20views&color=0e75b6&style=flat" alt="mahadidev7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahadidev7" alt="mahadidev7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mahadidev7" target="blank"><img src="https://img.shields.io/twitter/follow/mahadidev7?logo=twitter&style=for-the-badge" alt="mahadidev7" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://mahadidev7-portfolio.web.app/](https://mahadidev7-portfolio.web.app/)
-
-- 💬 Ask me about **javascript, react, html, css**
-
-- 📫 How to reach me **mahadidev7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,5 +34,7 @@ Skills: REACT, JAVASCRIPT, BOOTSTRAT, TAILWIND CSS, FIREBASE, FIGMA, HTML, CSS
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadidev7&show_icons=true&locale=en" alt="mahadidev7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&" alt="mahadidev7" /></p>
+
+
 
 
