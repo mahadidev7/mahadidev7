@@ -1,9 +1,10 @@
 
-![GitHub metrics](https://metrics.lecoq.io/mahadidev7) 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahadidev7)  
 
 # Hi there 👋, <br />My name is MD. MAHADI HASAN
 ## I am a professional frontend developer
-<br/>
+
 High-level experience in web design and frontend development knowledge, producing quality work.
 
 Skills: REACT, JAVASCRIPT, BOOTSTRAT, TAILWIND CSS, FIREBASE, FIGMA, HTML, CSS
@@ -15,7 +16,8 @@ Skills: REACT, JAVASCRIPT, BOOTSTRAT, TAILWIND CSS, FIREBASE, FIGMA, HTML, CSS
 
 ![Profile views](https://gpvc.arturio.dev/mahadidev7)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahadidev7)  
+
+<!-- ![GitHub metrics](https://metrics.lecoq.io/mahadidev7)  -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7)  
 
