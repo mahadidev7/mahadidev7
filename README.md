@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mahadidev7)  
 
-<h1 align="center">Hi 👋, I'm MD. Mahadi hasan</h1>
+<h1 align="center">Hi 👋, I'm MD. Mahadi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 High-level experience in web design and frontend development knowledge, producing quality work.
@@ -32,8 +32,8 @@ Skills: REACT, JAVASCRIPT, BOOTSTRAT, TAILWIND CSS, FIREBASE, FIGMA, HTML, CSS
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadidev7&show_icons=true&locale=en&layout=compact" alt="mahadidev7" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadidev7&show_icons=true&locale=en" alt="mahadidev7" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&" alt="mahadidev7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mahadidev7&show_icons=true&locale=en" alt="mahadidev7" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&" alt="mahadidev7" /></p>
 
 
 
