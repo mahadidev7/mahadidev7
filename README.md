@@ -1,7 +1,9 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/mahadidev7)  
+![Profile views](https://gpvc.arturio.dev/mahadidev7) 
+
+<p><img width="100%" height="auto" align="center" src="https://i.ibb.co/YB7DGXh/git-banner.png" alt="mahadidev7" /></p>
 
 <h1 align="center">Hi 👋, I'm MD. Mahadi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
