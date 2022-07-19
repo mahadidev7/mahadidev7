@@ -6,7 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm MD. Mahadi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<br/>
+<br/>
 High-level experience in web design and frontend development knowledge, producing quality work.
 
 Skills: REACT, JAVASCRIPT, BOOTSTRAT, TAILWIND CSS, FIREBASE, FIGMA, HTML, CSS
