@@ -32,13 +32,15 @@ Skills: REACT, JAVASCRIPT, BOOTSTRAT, TAILWIND CSS, FIREBASE, FIGMA, HTML, CSS
 </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahadidev7)  
+
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mahadidev7" alt="mahadidev7" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadidev7&show_icons=true&locale=en&layout=compact" alt="mahadidev7" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mahadidev7&show_icons=true&locale=en" alt="mahadidev7" /></p>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&" alt="mahadidev7" /></p>
+
 
 
 
