@@ -1,6 +1,5 @@
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahadidev7)  
 
 ![Profile views](https://gpvc.arturio.dev/mahadidev7)  
 
@@ -31,6 +30,10 @@ Skills: REACT, JAVASCRIPT, BOOTSTRAT, TAILWIND CSS, FIREBASE, FIGMA, HTML, CSS
 <a href="https://instagram.com/mahadidev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahadidev7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahadidev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahadidev7" height="30" width="40" /></a>
 </p>
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahadidev7)  
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mahadidev7" alt="mahadidev7" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadidev7&show_icons=true&locale=en&layout=compact" alt="mahadidev7" /></p>
 
