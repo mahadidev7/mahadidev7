@@ -5,12 +5,12 @@
 <h1 align="center">My name is MD MAHADI HASAN </h1>
 
  <h4 align="center"> Junior Front-end Developer || JavaScript Developer || React Developer </h4>
---------------------------------------------------------------------------------------------------
+ <h4 align="center">------------------------------------------------------------------------------------------------------------------------------------</h4>
 
 Hey, I'm Razu Islam . I'm a developer with 1 years of experience in developing Web. I'm a highly-skilled Front-end Developer with 1.5 years+ of experience in converting designs ( Adobe XD, Figma, PSD, Sketch, etc.) to HTML. I've worked on varied projects ranging from simple websites, and landing pages to complex Web applications.
 
 * I'm based in Comilla Bangladesh
-* See my portfolio at [mahadidev7](https://mahadidev7-portfolio.web.app/)
+* See my portfolio at <a href="https://mahadidev7-portfolio.web.app/" target="_blank">mahadidev7</a>
 * I'm learning Advance JavaScript
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -40,7 +40,7 @@ Hey, I'm Razu Islam . I'm a developer with 1 years of experience in developing W
 
 <p align="left">
 
-<a href="https://discord.com/users/MD Mahadi Hasan#2603" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/jsdevrazu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a><a href="https://www.facebook.com/mahadidev77/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a><a href="https://www.instagram.com/mahadidev7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/mahadidev7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.leetcode.com/mahadidev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahadidev7" height="30" width="40" /></a>
+<a href="https://discord.com/users/MD Mahadi Hasan#2603" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/jsdevrazu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a><a href="https://www.facebook.com/mahadidev77/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a><a href="https://www.instagram.com/mahadidev7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/mahadidev7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.leetcode.com/mahadidev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahadidev7" /></a>
 
 </p>
 
@@ -54,7 +54,7 @@ Hey, I'm Razu Islam . I'm a developer with 1 years of experience in developing W
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&" alt="mahadidev7" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadidev7&show_icons=true&locale=en&layout=compact" alt="mahadidev7" /></p>
-
+<br/>
 <p><img src="https://activity-graph.herokuapp.com/graph?username=mahadidev7&bg_color=181824&color=ffffff&line=ec4899&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></p>
 
 
