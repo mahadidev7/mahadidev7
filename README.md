@@ -4,8 +4,8 @@
 ![MasterHead](https://miro.medium.com/max/1136/0*sDuDpo2NIBrYYVJl)
 <h1 align="center">My name is MD MAHADI HASAN </h1>
 
-Junior Front-end Developer || JavaScript Developer || React Developer 
-----------------------------------------------------------------------
+ <h4 align="center"> Junior Front-end Developer || JavaScript Developer || React Developer </h4>
+--------------------------------------------------------------------------------------------------
 
 Hey, I'm Razu Islam . I'm a developer with 1 years of experience in developing Web. I'm a highly-skilled Front-end Developer with 1.5 years+ of experience in converting designs ( Adobe XD, Figma, PSD, Sketch, etc.) to HTML. I've worked on varied projects ranging from simple websites, and landing pages to complex Web applications.
 
@@ -54,8 +54,6 @@ Hey, I'm Razu Islam . I'm a developer with 1 years of experience in developing W
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&" alt="mahadidev7" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadidev7&show_icons=true&locale=en&layout=compact" alt="mahadidev7" /></p>
-
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mahadidev7" alt="mahadidev7" /></p>
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=mahadidev7&bg_color=181824&color=ffffff&line=ec4899&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></p>
 
