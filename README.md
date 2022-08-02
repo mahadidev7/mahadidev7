@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/mahadidev7) 
 
 <p align="center">
-  <img style="width:100%;" src="https://media.istockphoto.com/photos/developer-at-work-picture-id637048374?k=20&m=637048374&s=612x612&w=0&h=XE1JU-K8Hb0rr3XEZAwGKn8pJwbFOlrhkHX-Xl1tc4U=" />
+  <img style="width:100%; height:270px; " src="https://media.istockphoto.com/photos/developer-at-work-picture-id637048374?k=20&m=637048374&s=612x612&w=0&h=XE1JU-K8Hb0rr3XEZAwGKn8pJwbFOlrhkHX-Xl1tc4U=" />
 </p>
 
 <h1 align="center">MD. MAHADI HASAN </h1>
