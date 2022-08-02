@@ -1,8 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/mahadidev7) 
 
-<h1 align="center">
+
 ![I am Junior Front-end Developer](https://media.istockphoto.com/photos/developer-at-work-picture-id637048374?k=20&m=637048374&s=612x612&w=0&h=XE1JU-K8Hb0rr3XEZAwGKn8pJwbFOlrhkHX-Xl1tc4U=)
-</h1>
+
 
 
 <h1 align="center">MD. MAHADI HASAN </h1>
