@@ -57,4 +57,7 @@ Hey, I'm Razu Islam . I'm a developer with 1 years of experience in developing W
 
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mahadidev7" alt="mahadidev7" /></p>
 
+<p><img src="https://activity-graph.herokuapp.com/graph?username=mahadidev7&bg_color=181824&color=ffffff&line=ec4899&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></p>
+
+
 
