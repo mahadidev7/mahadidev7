@@ -10,13 +10,12 @@
 <h4 align="center">------------------------------------------------------------------------------------------------------------------------------------</h4>
 
 I'm a high-level experience in web design and frontend development knowledge, producing quality work with 1.5 years experience. <br/>
-love to work with people in order to build things that matter. Hi! I’m a professional Front-End Developer. <br/> I am an expert on  <br/>
+love to work with people in order to build things that matter. Hi! I’m a professional Front-End Developer. <br/> I am an expert on
+JavaScript frameworks:  <br/> React JS and Next JS. I also have solid foundations in HTML5, CSS3, Bootstrap, Tailwind, Material UI, and ECMAScript. ||
  
-JavaScript frameworks: React JS and Next JS. I also have solid foundations in HTML5, CSS3, Bootstrap, Tailwind, Material UI, and ECMAScript. <br/>
- 
-Database: Firebase, Mysql. <br/>
+Database:  <br/> Firebase, Mysql. || 
 
-UI/UX: Figma. <br/>
+UI/UX:  <br/> Figma. ||
 
 App: React-Native expo. <br/>
 
