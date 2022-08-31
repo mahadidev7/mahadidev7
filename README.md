@@ -5,7 +5,7 @@
 </p> -->
 
 <h3 align="center">Hello There 🖐🏼, </h1>
-<h1 align="center">MD. MAHADI HASAN </h1>
+<h2 align="center">MD. MAHADI HASAN </h1>
 
  <h4 align="center"> Junior Front-end Developer || JavaScript Developer || React Developer </h4>
  <h4 align="center">------------------------------------------------------------------------------------------------------------------------------------</h4>
