@@ -21,9 +21,6 @@ I'm eagerly looking for a career in a creative organization where I can implemen
 * See my portfolio at <a href="https://mahadidev7-portfolio.web.app/" target="_blank">mahadidev7</a>
 * I'm learning new technology everyday.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-
 ### Skills
 
 <p align="left">
@@ -43,6 +40,7 @@ I'm eagerly looking for a career in a creative organization where I can implemen
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<br />
 
 ### Socials
 
@@ -51,6 +49,9 @@ I'm eagerly looking for a career in a creative organization where I can implemen
 <a href="https://discord.com/users/MD Mahadi Hasan#2603" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.dribbble.com/jsdevrazu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.facebook.com/mahadidev77/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.instagram.com/mahadidev7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.linkedin.com/in/mahadidev7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.leetcode.com/mahadidev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" height="32" alt="mahadidev7" /></a>
 
 </p>
+
+
+<br />
 
 ### Badges
 
