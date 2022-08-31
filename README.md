@@ -4,11 +4,10 @@
   <img src="https://media.istockphoto.com/photos/developer-at-work-picture-id637048374?k=20&m=637048374&s=612x612&w=0&h=XE1JU-K8Hb0rr3XEZAwGKn8pJwbFOlrhkHX-Xl1tc4U=" /> 
 </p> -->
 
-<h3 align="center">Hello There 🖐🏼, </h1>
-<h2 align="center">MD. MAHADI HASAN </h1>
-
- <h4 align="center"> Junior Front-end Developer || JavaScript Developer || React Developer </h4>
- <h4 align="center">------------------------------------------------------------------------------------------------------------------------------------</h4>
+<h3 align="center">Hello There 🖐🏼, </h3>
+<h1 align="center">I'm MD. MAHADI HASAN </h1>
+<h4 align="center"> Junior Front-end Developer || JavaScript Developer || React Developer </h4>
+<h4 align="center">------------------------------------------------------------------------------------------------------------------------------------</h4>
 
 Hey, I'm MD. Mahadi Hasan . I'm a developer with 1 years of experience in developing Web. I'm a highly-skilled Front-end Developer with 1.5 years+ of experience in converting designs ( Adobe XD, Figma, PSD, Sketch, etc.) to HTML. I've worked on varied projects ranging from simple websites, and landing pages to complex Web applications.
 
