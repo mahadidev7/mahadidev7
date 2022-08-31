@@ -22,6 +22,7 @@ I'm eagerly looking for a career in a creative organization where I can implemen
 * I'm learning new technology everyday.
 
 <br />
+
 ### Skills
 
 <p align="left">
