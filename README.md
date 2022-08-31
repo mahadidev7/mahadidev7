@@ -11,20 +11,15 @@
 
 I'm a high-level experience in web design and frontend development knowledge, producing quality work with 1.5 years experience. <br/>
 love to work with people in order to build things that matter. Hi! I’m a professional Front-End Developer. <br/> I am an expert on
-JavaScript frameworks:  <br/> React JS and Next JS. I also have solid foundations in HTML5, CSS3, Bootstrap, Tailwind, Material UI, and ECMAScript. ||
- 
-Database:  <br/> Firebase, Mysql. || 
-
-UI/UX:  <br/> Figma. ||
-
+JavaScript frameworks:  <br/> React JS and Next JS. I also have solid foundations in HTML5, CSS3, Bootstrap, Tailwind, Material UI, and ECMAScript.
+Database: Firebase, Mysql.
+UI/UX:  <br/> Figma.
 App: React-Native expo. <br/>
-
 I'm eagerly looking for a career in a creative organization where I can implement my skills as well as increase my IT skills in the software process.
-
 
 * I'm based in Comilla Bangladesh
 * See my portfolio at <a href="https://mahadidev7-portfolio.web.app/" target="_blank">mahadidev7</a>
-* I'm learning Advance JavaScript
+* I'm learning new technology everyday.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
