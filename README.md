@@ -9,7 +9,19 @@
 <h4 align="center"> Junior Front-end Developer || JavaScript Developer || React Developer </h4>
 <h4 align="center">------------------------------------------------------------------------------------------------------------------------------------</h4>
 
-Hey, I'm MD. Mahadi Hasan . I'm a developer with 1 years of experience in developing Web. I'm a highly-skilled Front-end Developer with 1.5 years+ of experience in converting designs ( Adobe XD, Figma, PSD, Sketch, etc.) to HTML. I've worked on varied projects ranging from simple websites, and landing pages to complex Web applications.
+I'm a high-level experience in web design and frontend development knowledge, producing quality work with 1.5 years experience. <br/>
+love to work with people in order to build things that matter. Hi! I’m a professional Front-End Developer. <br/> I am an expert on  <br/>
+ 
+JavaScript frameworks: React JS and Next JS. I also have solid foundations in HTML5, CSS3, Bootstrap, Tailwind, Material UI, and ECMAScript. <br/>
+ 
+Database: Firebase, Mysql. <br/>
+
+UI/UX: Figma. <br/>
+
+App: React-Native expo. <br/>
+
+I'm eagerly looking for a career in a creative organization where I can implement my skills as well as increase my IT skills in the software process.
+
 
 * I'm based in Comilla Bangladesh
 * See my portfolio at <a href="https://mahadidev7-portfolio.web.app/" target="_blank">mahadidev7</a>
