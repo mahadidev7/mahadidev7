@@ -1,11 +1,11 @@
-![Profile views](https://gpvc.arturio.dev/mahadidev7) 
+<!-- ![Profile views](https://gpvc.arturio.dev/mahadidev7)  -->
 
 <!-- <p align="center">
   <img src="https://media.istockphoto.com/photos/developer-at-work-picture-id637048374?k=20&m=637048374&s=612x612&w=0&h=XE1JU-K8Hb0rr3XEZAwGKn8pJwbFOlrhkHX-Xl1tc4U=" /> 
 </p> -->
 
 <h3 align="center">Hello There 🖐🏼, </h3>
-<h3 align="center">#I'm MD. MAHADI HASAN </h3>
+<h3 align="center">I'm MD. MAHADI HASAN </h3>
 <h4 align="center"> Junior Front-end Developer || JavaScript Developer || React Developer </h4>
 <h4 align="center">------------------------------------------------------------------------------------------------------------------------------------</h4>
 
@@ -13,7 +13,7 @@ I am a highly skilled Frontend Developer and Web Designer with 4+ of experience 
 
 I have a deep understanding of frontend technologies, Web Design, UI/UX Design such as HTML, CSS, BOOTSTRAP, Tailwind CSS, Material-UI(MUI), JavaScript, and jQuery, Redux, as well as experience with popular frontend frameworks and libraries such as React, Next JS. Additionally, I am proficient in design software such as Figma, Adobe Photoshop, and XD, and has experience with modern development tools and practices, such as GitHub and webpack methodologies.
 
-* I'm based in Comilla Bangladesh
+<!-- * I'm based in Comilla Bangladesh -->
 * See my portfolio at <a href="https://mahadidev7-portfolio.web.app/" target="_blank">mahadidev7</a>
 * I'm learning new technology everyday.
 
