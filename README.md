@@ -65,10 +65,10 @@ I'm eagerly looking for a career in a creative organization where I can implemen
 <a href="http://www.github.com/mahadidev7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </h1>
 
-<h1 align="center">
+<!-- <h1 align="center">
 <a href="http://www.github.com/mahadidev7"><img src="https://activity-graph.herokuapp.com/graph?username=mahadidev7&bg_color=181824&color=ffffff&line=ec4899&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </h1>
 <h1 align="center">
 <a href="https://github.com/mahadidev7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadidev7&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</h1>
+</h1> -->
 
