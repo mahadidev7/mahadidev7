@@ -5,17 +5,13 @@
 </p> -->
 
 <h3 align="center">Hello There 🖐🏼, </h3>
-<h3 align="center">I'm MD. MAHADI HASAN </h3>
+<h3 align="center">#I'm MD. MAHADI HASAN </h3>
 <h4 align="center"> Junior Front-end Developer || JavaScript Developer || React Developer </h4>
 <h4 align="center">------------------------------------------------------------------------------------------------------------------------------------</h4>
 
-I'm a high-level experience in web design and frontend development knowledge, producing quality work with 1.5 years experience. <br/>
-love to work with people in order to build things that matter. Hi! I’m a professional Front-End Developer. <br/> I am an expert on
-JavaScript frameworks:  <br/> React JS and Next JS. I also have solid foundations in HTML5, CSS3, Bootstrap, Tailwind, Material UI, and ECMAScript.
-Database: Firebase, Mysql.
-UI/UX:  <br/> Figma.
-App: React-Native expo. <br/>
-I'm eagerly looking for a career in a creative organization where I can implement my skills as well as increase my IT skills in the software process.
+I am a highly skilled Frontend Developer and Web Designer with 4+ of experience in creating visually appealing and user-friendly websites and web applications. With a strong background in graphic design, user experience, and web development, I have a proven track record of delivering high-quality designs and code on time and on budget.
+
+I have a deep understanding of frontend technologies, Web Design, UI/UX Design such as HTML, CSS, BOOTSTRAP, Tailwind CSS, Material-UI(MUI), JavaScript, and jQuery, Redux, as well as experience with popular frontend frameworks and libraries such as React, Next JS. Additionally, I am proficient in design software such as Figma, Adobe Photoshop, and XD, and has experience with modern development tools and practices, such as GitHub and webpack methodologies.
 
 * I'm based in Comilla Bangladesh
 * See my portfolio at <a href="https://mahadidev7-portfolio.web.app/" target="_blank">mahadidev7</a>
