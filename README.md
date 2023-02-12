@@ -65,11 +65,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mahadidev7/ma/blob/output/snake.svg" alt="Snake animation" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&" alt="mahadidev7" /></p>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mahadidev7"  />
 </div>
 
