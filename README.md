@@ -9,8 +9,21 @@
 ###
 
 <!-- * I'm based in Comilla Bangladesh -->
-* See my portfolio at <a href="https://mahadidev7-portfolio.web.app/" target="_blank">mahadidev7</a>
-* I'm learning new technology everyday.
+* 👨‍✈️ See my portfolio at <a href="https://mahadidev7-portfolio.web.app/" target="_blank">mahadidev7</a>
+
+- 🔭 I’m currently working on **something cool 😎**
+
+- 🌱 I’m currently learning **something amazing 🔥**
+
+- 👨‍💻 All of my projects are available at my **portfolio** [website](https://mahadidev7-portfolio.web.app/)
+
+- 💬 Ask me about **React, Next JS, JavaScript**
+
+- 📫 How to reach me **mahadidev7@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/13ahC3_eN5kk03PNZpXXOEZ5Kmm-U7TCUKSz3RZucze4/edit?usp=sharing)
+
+- ⚡ Fun fact **I think I'm crazy**
 
 ###
 
@@ -70,11 +83,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&" alt="mahadidev7" />
 </div>
 
-###
 
-<img alt="Mahadi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahadidev7" />
-
-###
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mahadidev7"  />
