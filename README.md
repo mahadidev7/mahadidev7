@@ -6,6 +6,14 @@
 
 ###
 
+###
+
+<!-- * I'm based in Comilla Bangladesh -->
+* See my portfolio at <a href="https://mahadidev7-portfolio.web.app/" target="_blank">mahadidev7</a>
+* I'm learning new technology everyday.
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="55" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="55" alt="typescript logo"  />
@@ -64,11 +72,7 @@
 
 ###
 
-<br clear="both">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&" alt="mahadidev7" /></p>
-
-<img alt="Mahadi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahadidev7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Mahadi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahadidev7" />
 
 ###
 
