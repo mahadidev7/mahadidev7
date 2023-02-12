@@ -27,7 +27,6 @@
 
 ###
 
-<br/>
 
 ###
 
@@ -50,10 +49,8 @@
 
 ###
 
-<br clear="both">
 
 ###
-
 
 <div align="center">
   <a href="mahadidev7@gmail.com" target="_blank">
@@ -83,8 +80,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 ###
 
