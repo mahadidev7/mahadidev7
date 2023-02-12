@@ -59,7 +59,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=mahadidev7" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=mahadidev7" height="150" alt="languages graph"  /> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&user=mahadidev7&" alt="mahadidev7" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&" alt="mahadidev7" />
 </div>
 
 ###
@@ -67,6 +67,8 @@
 <br clear="both">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadidev7&" alt="mahadidev7" /></p>
+
+<img alt="Mahadi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahadidev7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 ###
 
