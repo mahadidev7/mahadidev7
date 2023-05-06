@@ -83,7 +83,7 @@
 
 ###
 
-<p align="left">
+<p align="center">
 <img alt="Trophy" align="center" height="" src="https://github-profile-trophy.vercel.app/?username=mahadidev7&theme=dracula"/></p>
 
 <div align="center">
