@@ -74,8 +74,8 @@
   <a href="https://www.instagram.com/mahadidev7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="40" alt="mahadidev77"  />
   </a>
-  <a href="https://discord.com/users/MD Mahadi Hasan#2603" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="40" alt="MD Mahadi Hasan#2603"  />
+  <a href="https://discord.com/users/mahadidev7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="40" alt="mahadidev7"  />
   </a>
 </div>
 
