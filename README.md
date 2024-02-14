@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">I am a highly skilled Frontend Developer and Web Designer with 3+ of experience in creating visually appealing and user-friendly websites and web applications. With a strong background in graphic design, user experience, and web development, I have a proven track record of delivering high-quality designs and code on time and on budget.<br><br>I have a deep understanding of frontend technologies, Web Design, UI/UX Design such as HTML, CSS, BOOTSTRAP, Tailwind CSS, Material-UI(MUI), JavaScript, and jQuery, Redux, as well as experience with popular frontend frameworks and libraries such as React, Next JS. Additionally, I am proficient in design software such as Figma, Adobe Photoshop, and XD, and has experience with modern development tools and practices, such as GitHub and webpack methodologies.<br><br>I am a dedicated and passionate professional who is committed to staying up-to-date with the latest industry trends and technologies. I am excited about the opportunity to work with a company that values innovation and is committed to creating world-class digital products.</p>
+<p align="left">
+3+ years experience of Frontend Developer, I bring a wealth of expertise in crafting intuitive and visually appealing web interfaces. Proficient in HTML, CSS, and JavaScript, I have successfully leveraged frontend frameworks such as React and Next.js to create dynamic and responsive user experiences. My collaborative nature allows me to seamlessly integrate with cross-functional teams, ensuring projects are delivered with precision and efficiency. With a keen eye for detail and a passion for staying updated with the latest industry trends, I am committed to driving continuous improvement and delivering exceptional results.
+  
+</p>
 
 ###
 
